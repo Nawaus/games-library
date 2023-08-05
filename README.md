@@ -1,7 +1,5 @@
-# React + Vite
+npm install
 
 npm run dev
-
-npm install
 
 # games-library
